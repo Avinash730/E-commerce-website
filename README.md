@@ -1,2 +1,2 @@
-# E-cmmerce-website
+# E-commerce-website
 
